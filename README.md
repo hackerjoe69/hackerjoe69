@@ -16,7 +16,7 @@
 ## 👨‍💻 About Me
 
 - 🛡️ Passionate about **Cyber Security**, **AI Security**, and all things **DevSecOps**
-- 💻 Fluent in **Python** and **Bash** scripting
+- 💻 Fluent in **Python**, **Linux**, and **Bash** scripting
 - 🚀 Always hacking, automating, and making the digital world safer
 - 🎮 When I’m not coding, you’ll find me gaming!
 
