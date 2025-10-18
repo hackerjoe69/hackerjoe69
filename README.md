@@ -46,6 +46,24 @@
       <br/>
       <sub>Cloud Security Monitoring Dashboard</sub>
     </td>
+    <td align="center">
+      <a href="https://github.com/hackerjoe69/AdminBusterPro">
+        <img src="https://skillicons.dev/icons?i=python" width="40" alt="Python"/>
+        <br/>
+        <b>AdminBusterPro</b>
+        </a>
+        <br/>
+        <sub>Admin Panel Finder</sub>
+        </td>
+    <td align="center">
+      <a href="https://github.com/hackerjoe69/phone-osint-GUI">
+        <img src="https://skillicons.dev/icons?i=python" width="40" alt="Python"/>
+        <br/>
+        <b>phone-osint-GUI</b>
+        </a>
+        <br/>
+        <sub>Phone Number Intelligence Tool</sub>
+        </td>
   </tr>
 </table>
 
