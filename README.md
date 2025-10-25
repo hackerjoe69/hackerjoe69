@@ -19,7 +19,7 @@
 
 ## 👨‍💻 About Me
 
-- 🛡️ Passionate about **Cyber Security**, **AI Security**, and all things **DevSecOps**
+- 🛡️ I am an  **Ethical Hacker**, **CyberSecurity Analyst**, and **Penetration Tester**
 - 💻 Fluent in **Python**, **Linux**, and **Bash** scripting
 - 🚀 Always hacking, automating, and making the digital world safer
 - 🎮 When I’m not coding, you’ll find me gaming!
@@ -31,13 +31,13 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/hackerjoe69/cybersec-chatbot">
+      <a href="https://github.com/hackerjoe69/pentest_bot">
         <img src="https://skillicons.dev/icons?i=python" width="40" alt="Python"/>
         <br/>
-        <b>cybersec-chatbot</b>
+        <b>pentest_bot</b>
       </a>
       <br/>
-      <sub>AI-driven Cybersecurity Chatbot</sub>
+      <sub>An offensive security analytics bot</sub>
     </td>
     <td align="center">
       <a href="https://github.com/hackerjoe69/aws-network-monitor-dashboard">
