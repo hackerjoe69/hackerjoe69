@@ -3,11 +3,11 @@
 
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hey!%20I'm%20HackerJoe%20👾&fontSize=40&fontAlignY=35&desc=Cybersecurity%20%7C%20AI%20Security%20%7C%20DevSecOps&descAlign=65&descSize=20)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hey!%20I'm%20HackerJoe%20👾&fontSize=40&fontAlignY=35&desc=Ethical%20Hacker%20%7C%20Malware%20Analyst%20%20&descAlign=65&descSize=20)
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/hackerjoe69)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@hackerjoe69)
-[![TikTok](https://img.shields.io/badge/TikTok-010101?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@hackerjoe69)
+[![TikTok](https://img.shields.io/badge/TikTok-010101?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@hackerjoe_official)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hackerjoe69)
 [![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.com/@hackerjoe69)
 
@@ -19,9 +19,9 @@
 
 ## 👨‍💻 About Me
 
-- 🛡️ I am an  **Ethical Hacker**, **CyberSecurity Analyst**, and **Penetration Tester**
-- 💻 Fluent in **Python**, **Linux**, and **Bash** scripting
-- 🚀 Always hacking, automating, and making the digital world safer
+- 🛡️ I am an  **Ethical Hacker**, and **Malware Analyst**
+- 💻 Fluent in **Python**, **Linux**, **Netwoking**, and **Bash** scripting
+- 🚀 Always hacking, automating, developing and analysing malwares and making the digital world safer
 - 🎮 When I’m not coding, you’ll find me gaming!
 
 ---
@@ -84,7 +84,7 @@
 ## 🌐 Connect with Me
 
 - 🐦 [Twitter](https://x.com/hackerjoe69)
-- 🎵 [TikTok](https://www.tiktok.com/@hackerjoe69)
+- 🎵 [TikTok](https://www.tiktok.com/@hackerjoe_official)
 - 📺 [YouTube](https://www.youtube.com/@hackerjoe69)
 
 ---
