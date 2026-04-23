@@ -3,7 +3,7 @@
 
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hey!%20I'm%20HackerJoe%20👾&fontSize=40&fontAlignY=35&desc=Ethical%20Hacker%20%7C%20Malware%20Analyst%20%20&descAlign=65&descSize=20)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hey!%20I'm%20Icognito%20👾&fontSize=40&fontAlignY=35&desc=Ethical%20Hacker%20%7C%20Malware%20Analyst%20%20&descAlign=65&descSize=20)
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/hackerjoe69)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@hackerjoe69)
